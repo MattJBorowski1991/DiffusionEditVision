@@ -1,0 +1,10 @@
+0: The kingfisher is a penguin
+1: As a drawing.
+2: make the shore an island
+3: make the lake a swamp
+4: add a lighthouse
+5: Add a giant alien
+6: as a painted portrait
+7: make him a zombie
+8: make it look like a painting
+9: Make it look more like a children's book illustration
